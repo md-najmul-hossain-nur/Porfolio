@@ -1,33 +1,60 @@
-# 👋 Hi, I’m Md. Najmul Hossain Nur  
-Mechanical & Design Enthusiast | Fusion 360 | Figma  
+👋 Hi there, I'm Md. Najmul Hossain Nur
 
-## About Me
-I am passionate about mechanical design and underwater robotics. I like creating 3D models, designing parts, and solving real-world problems. I am always eager to learn new skills and work on innovative projects.
+Welcome to my GitHub profile! I'm a passionate developer and designer with experience in web development, programming, IoT, and mechanical design. I love creating solutions that combine software and hardware to solve real-world problems.
 
-## Skills
-- **Mechanical Design:** Fusion 360, CAD modeling, prototyping  
-- **Design Tools:** Figma, basic graphics design  
-- **Problem Solving:** Real-world engineering solutions  
+🔹 About Me
 
-## Projects
+🌱 Currently learning System Analysis & Design (SAD) and advanced IoT & Embedded Systems.
 
-### 1. Robotic Arm (Electronics Course)
-- Designed and modeled a robotic arm using Fusion 360  
-- Integrated mechanical parts with electronics  
-- Role: Designer & Team Leader
+💼 Hands-on experience in DBMS, Java, Python, C/C++, and Web Development.
 
-### 2. Aoop Project
-- Developed an application (4th place in competition)  
-- Role: Developer & Team Collaborator
+💡 Enjoy problem-solving, team collaboration, and building innovative projects.
 
-### 3. DBMS Project
-- Worked on a database project (Champion)  
-- Role: Designer & **Team Leader**
+📫 Reach me at: mnajmulhossainnur@gmail.com
 
-### 4. SAD Project (Ongoing)
-- System Analysis & Design project this trimester  
-- Role: Team Leader & Designer  
+🔗 Connect with me on LinkedIn
 
-## Contact
-- Email: mnajmulhossainnur@gmail.com  
-- LinkedIn: [Md. Najmul Hossain Nur](https://www.linkedin.com/in/md-najmul-hossain-nur-8726b12a4/)  
+🔹 Skills
+
+Programming Languages:
+
+Java, C, C++, Python
+
+Web Development:
+
+HTML, CSS, JavaScript, PHP
+
+Database Management:
+
+MySQL, SQL
+
+Frameworks & Tools:
+
+JavaFX, Figma, Scene Builder, Git & GitHub
+
+IoT & Embedded Systems:
+
+Arduino Mega, Sensor & Motor Integration
+
+Mechanical Design:
+
+Fusion 360 (Robotic Hand & Prototyping)
+
+🔹 Projects
+1. Aoop Project
+
+Role: Team Leader & Developer
+
+Achievements: 4th place in competition
+
+2. DBMS Project
+
+Role: Designer & Team Leader
+
+Achievements: Champion of the project
+
+3. SAD Project (Ongoing)
+
+Role: Team Leader & Designer
+
+Focus: Frontend development and system design
