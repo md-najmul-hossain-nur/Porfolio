@@ -1,60 +1,51 @@
-👋 Hi there, I'm Md. Najmul Hossain Nur
+# 👋 Hi there, I'm Md. Najmul Hossain Nur
 
 Welcome to my GitHub profile! I'm a passionate developer and designer with experience in web development, programming, IoT, and mechanical design. I love creating solutions that combine software and hardware to solve real-world problems.
 
-🔹 About Me
+---
 
-🌱 Currently learning System Analysis & Design (SAD) and advanced IoT & Embedded Systems.
+## 🔹 About Me
 
-💼 Hands-on experience in DBMS, Java, Python, C/C++, and Web Development.
+- 🌱 Currently learning **System Analysis & Design (SAD)** and advanced **IoT & Embedded Systems**  
+- 💼 Hands-on experience in **DBMS, Java, Python, C/C++**, and **Web Development**  
+- 💡 Enjoy **problem-solving, team collaboration**, and building **innovative projects**  
+- 📫 Reach me at: **mnajmulhossainnur@gmail.com**  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/md-najmul-hossain-nur-8726b12a4/)
 
-💡 Enjoy problem-solving, team collaboration, and building innovative projects.
+---
 
-📫 Reach me at: mnajmulhossainnur@gmail.com
+## 🔹 Skills
 
-🔗 Connect with me on LinkedIn
-
-🔹 Skills
-
-Programming Languages:
-
+**Programming Languages:**  
 Java, C, C++, Python
 
-Web Development:
-
+**Web Development:**  
 HTML, CSS, JavaScript, PHP
 
-Database Management:
-
+**Database Management:**  
 MySQL, SQL
 
-Frameworks & Tools:
-
+**Frameworks & Tools:**  
 JavaFX, Figma, Scene Builder, Git & GitHub
 
-IoT & Embedded Systems:
-
+**IoT & Embedded Systems:**  
 Arduino Mega, Sensor & Motor Integration
 
-Mechanical Design:
-
+**Mechanical Design:**  
 Fusion 360 (Robotic Hand & Prototyping)
 
-🔹 Projects
-1. Aoop Project
+---
 
-Role: Team Leader & Developer
+## 🔹 Projects
 
-Achievements: 4th place in competition
+### 1. Aoop Project
+- **Role:** Team Leader & Developer  
+- **Achievements:** 4th place in competition  
 
-2. DBMS Project
+### 2. DBMS Project
+- **Role:** Designer & Team Leader  
+- **Achievements:** Champion of the project  
 
-Role: Designer & Team Leader
-
-Achievements: Champion of the project
-
-3. SAD Project (Ongoing)
-
-Role: Team Leader & Designer
-
-Focus: Frontend development and system design
+### 3. SAD Project (Ongoing)
+- **Role:** Team Leader & Designer  
+- **Focus:** Frontend development and system design
