@@ -38,14 +38,19 @@ Fusion 360 (Robotic Hand & Prototyping)
 
 ## 🔹 Projects
 
-### 1. Aoop Project
+### 1. Electronics Project (Robotic Arm)
+- **Role:** Designer & Builder  
+- **Tools:** Fusion 360, Arduino  
+- **Details:** Designed and built a robotic arm using Fusion 360 and integrated it with electronics for movement.
+
+### 2. Aoop Project
 - **Role:** Team Leader & Developer  
 - **Achievements:** 4th place in competition  
 
-### 2. DBMS Project
+### 3. DBMS Project
 - **Role:** Designer & Team Leader  
 - **Achievements:** Champion of the project  
 
-### 3. SAD Project (Ongoing)
+### 4. SAD Project (Ongoing)
 - **Role:** Team Leader & Designer  
 - **Focus:** Frontend development and system design
